@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello, I'm Cody
 
-<!--
-**codywilliamson/codywilliamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Cloud Developer | C# Expert | Azure Specialist | Entrepreneur
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Professional Snapshot:**
+- Cloud Developer in corporate fintech, building & automating infrastructure for SaaS products.
+- Entrepreneur at heart, steering **Spectacle Web Design** in my personal time.
+- C#, Azure, PowerShell.
+- Started on the front-end with JavaScript and a love for CSS.
+- Passionate about OOP and best practices in software design.
+
+**Current Focus:**
+- Bleeding edge cloud development in Azure
+- Anything .NET
+- Crafting unique, responsive, and visually appealing websites for clients with Spectacle Web Design.
+- Starting personal projects, but never finishing them 😏
+
+---
+
+*Simplicity, efficacy, and continuous improvement.*
+
+---
