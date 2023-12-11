@@ -1,4 +1,4 @@
-### Hello, I'm Cody
+### Hey, I'm Cody
 
 #### Cloud Developer | C# Expert | Azure Specialist | Entrepreneur
 
@@ -16,6 +16,7 @@
 - Anything .NET
 - Crafting unique, responsive, and visually appealing websites for clients with Spectacle Web Design.
 - Starting personal projects, but never finishing them 😏
+- Astro, 11ty
 
 ---
 
