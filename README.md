@@ -1,9 +1,1 @@
-### Hey, I'm Cody
-
-#### Cloud Developer
-
-- Azure
-- .NET
-- Spectacle Software
-- Starting personal projects, but never finishing them 😏
-- Astro, 11ty
+Life, though often a tempest of trials, is a testament to resilience. Even when all you can do is stand firm against the storm, the reward lies in knowing you endured, and in the quiet strength that shapes you for brighter days ahead.
