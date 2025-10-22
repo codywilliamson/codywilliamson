@@ -11,10 +11,10 @@ Building clean, scalable systems — from Azure Durable Functions orchestration 
 
 ### 🧠 What I Do
 
-- **Azure Architectures:** Durable Functions, Batch, Service Bus, SQL Elastic Pools  
-- **.NET Development:** C#, result patterns, async orchestration, resilient workflows  
-- **Automation:** PowerShell modules, Azure DevOps pipelines, IaC with Bicep  
-- **Web Systems:** Astro, Tailwind, Vue, Netlify, and headless WordPress  
+- **Azure**
+- **dotnet**  
+- **Automation**  
+- **Web**  
 - **Misc Projects:**  
   - [**peek**](https://peek.codywilliamson.com) — a better `Get-ChildItem` experience for PowerShell  
   - [**Tab Grouper**](https://microsoftedge.microsoft.com/addons/detail/tab-grouper/cjamddajnhimgjogcgighnbaojgliccc) — browser extension evolving into a micro-SaaS  
@@ -36,10 +36,8 @@ Building clean, scalable systems — from Azure Durable Functions orchestration 
 ---
 
 ### 🚀 Current Focus
-- Scaling **Spectacle Software** beyond solo mode  
-- Building **automated SEO dashboards** and **micro-SaaS templates**  
-- Refining **Azure orchestration patterns** for cleaner observability and reuse  
-- **Balancing code, coffee, and chaos** (aka: dad life)
+- Scaling **Spectacle Software** beyond solo mode
+- Refining **Azure orchestration patterns** for cleaner observability and reuse
 
 ---
 
@@ -47,14 +45,10 @@ Building clean, scalable systems — from Azure Durable Functions orchestration 
 > _"Code should be readable, reusable, and reasoned about.  
 > Clever is fine — intentional is better."_  
 
-I write code that tells the story of **why**, not just **what**.  
-**DRY**, **KISS**, and **SOLID** are my commandments — right after *thou shalt commit often.*
-
 ---
 
 ### 🕹️ Off the Clock
-- Baseball with my kiddos ⚾  
-- Basshead 🎧  
+- Baseball with my kiddos ⚾
 - Studying theology and faith  
 - Occasionally pretending to rest  
 
@@ -64,7 +58,3 @@ I write code that tells the story of **why**, not just **what**.
 - 🌐 [Spectacle Software](https://spectaclesoftware.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/codywilliamson)  
 - 🧾 [codywilliamson.com](https://codywilliamson.com)
-
----
-
-⭐ _If it can be automated, refactored, or documented — it probably will be._
