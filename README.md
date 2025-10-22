@@ -1,6 +1,7 @@
-# 👋 Hey, I’m Cody Williamson
+# 👋 Hey, I’m Cody
 
 **Senior Software Engineer | Founder @ [Spectacle Software](https://spectaclesoftware.com)**  
+
 Building clean, scalable systems — from Azure Durable Functions orchestration to headless WordPress dashboards and micro-SaaS platforms.  
 
 > _“Am I now seeking the approval of man, or of God? Or am I trying to please man?  
@@ -48,9 +49,7 @@ Building clean, scalable systems — from Azure Durable Functions orchestration 
 ---
 
 ### 🕹️ Off the Clock
-- Baseball with my kiddos ⚾
-- Studying theology and faith  
-- Occasionally pretending to rest  
+- Jesus & baseball
 
 ---
 
