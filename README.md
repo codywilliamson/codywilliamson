@@ -51,11 +51,11 @@
       <sub>Agentic scripting language — safe, auditable scripts with built-in tool use & permission gating</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/⚡_ShockStack-FF5D01?style=for-the-badge&logoColor=white" alt="ShockStack" />
+      <a href="https://shockstack.dev">
+        <img src="https://img.shields.io/badge/⚡_ShockStack-FF5D01?style=for-the-badge&logoColor=white" alt="ShockStack" />
+      </a>
       <br />
       <sub>Convention-first full-stack monorepo template — Astro 5 + .NET 10, design tokens, CI/CD baked in</sub>
-      <br />
-      <sub><i>coming soon</i></sub>
     </td>
   </tr>
   <tr>
