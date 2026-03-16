@@ -12,9 +12,10 @@
   
   <br />
   
-  > *"For am I now seeking the approval of man, or of God? Or am I trying to please man?*  
-  > *If I were still trying to please man, I would not be a servant of Christ."*  
-  > — **Galatians 1:10**
+  > *"But we ought always to give thanks to God for you, brothers beloved by the Lord,*
+  > *because God chose you as the firstfruits to be saved,*
+  > *through sanctification by the Spirit and belief in the truth."*
+  > — **2 Thessalonians 2:13**
 </div>
 
 ---
