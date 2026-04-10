@@ -37,7 +37,6 @@ Lately I've been getting more into open source and leaning hard into the next ge
 - **[astro-email](https://github.com/codywilliamson/astro-email)** — author emails as Astro components, preview in dev, send from CLI
 - **[shockstack](https://github.com/codywilliamson/shockstack)** — convention-first full-stack monorepo template — Astro 5 + .NET 10, design tokens, CI/CD baked in
 - **[claude-config](https://github.com/codywilliamson/claude-config)** — portable Claude Code config — settings, commands, agents, hooks, skills, and statusline across machines
-- **[aboard](https://github.com/codywilliamson/aboard)** — agent-powered kanban board TUI
 - **[reposweep](https://github.com/codywilliamson/reposweep)** — manage your GitHub repos — toggle visibility, archive, rename, delete — all from one dashboard
 - **[signal-lost](https://github.com/codywilliamson/signal-lost)** — clarence — an analog horror CLI where an AI terminal assistant progressively takes over your session
 
