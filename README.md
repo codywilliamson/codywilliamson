@@ -7,7 +7,7 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-codywilliamson.com-blue?style=for-the-badge&logo=astro&logoColor=white)](https://codywilliamson.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codywilliamson)
   
-  `🚀 Building AI-powered tools & full-stack apps`
+  `Jesus, baseball, & token maxing`
   
   <br />
   
