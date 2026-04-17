@@ -47,6 +47,7 @@ Lately I've been getting more into open source and leaning hard into the next ge
 
 - **[claude-config](https://github.com/codywilliamson/claude-config)** — portable Claude Code config — settings, commands, agents, hooks, skills, and statusline across machines
 - **[codex-config](https://github.com/codywilliamson/codex-config)** — portable Codex CLI config — config.toml, rules, and skills across machines
+- **[nvim-config](https://github.com/codywilliamson/nvim-config)** — custom neovim config — LSP, completion, fuzzy finding, dracula theme, and AI integration
 - **[nano-config](https://github.com/codywilliamson/nano-config)** — nicer out-of-the-box nano — line numbers, soft wrap, syntax highlighting, per-file cursor memory
 
 ---
