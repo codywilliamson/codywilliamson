@@ -36,11 +36,19 @@ Lately I've been getting more into open source and leaning hard into the next ge
 - **[astro-rpc](https://github.com/codywilliamson/astro-rpc)** — typesafe RPC for Astro 6 with full type inference from server to client
 - **[astro-email](https://github.com/codywilliamson/astro-email)** — author emails as Astro components, preview in dev, send from CLI
 - **[shockstack](https://github.com/codywilliamson/shockstack)** — convention-first full-stack monorepo template — Astro 5 + .NET 10, design tokens, CI/CD baked in
-- **[claude-config](https://github.com/codywilliamson/claude-config)** — portable Claude Code config — settings, commands, agents, hooks, skills, and statusline across machines
 - **[reposweep](https://github.com/codywilliamson/reposweep)** — manage your GitHub repos — toggle visibility, archive, rename, delete — all from one dashboard
 - **[repo-sentinel](https://github.com/codywilliamson/repo-sentinel)** — reusable GitHub Actions workflow — Trivy + CodeQL scans, auto-issue creation, optional Copilot fix attempts
 - **[commit-guard](https://github.com/codywilliamson/commit-guard)** — one-liner setup for conventional commits — local git hooks plus reusable CI validation workflow
 - **[signal-lost](https://github.com/codywilliamson/signal-lost)** — clarence — an analog horror CLI where an AI terminal assistant progressively takes over your session
+
+---
+
+## ⚙️ Configs
+
+- **[claude-config](https://github.com/codywilliamson/claude-config)** — portable Claude Code config — settings, commands, agents, hooks, skills, and statusline across machines
+- **[codex-config](https://github.com/codywilliamson/codex-config)** — portable Codex CLI config — config.toml, rules, and skills across machines
+- **[mint-config](https://github.com/codywilliamson/mint-config)** — automated, idempotent Linux Mint dev environment setup — tools, dotfiles, repos, all from one command
+- **[nano-config](https://github.com/codywilliamson/nano-config)** — nicer out-of-the-box nano — line numbers, soft wrap, syntax highlighting, per-file cursor memory
 
 ---
 
