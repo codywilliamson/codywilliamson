@@ -47,7 +47,6 @@ Lately I've been getting more into open source and leaning hard into the next ge
 
 - **[claude-config](https://github.com/codywilliamson/claude-config)** — portable Claude Code config — settings, commands, agents, hooks, skills, and statusline across machines
 - **[codex-config](https://github.com/codywilliamson/codex-config)** — portable Codex CLI config — config.toml, rules, and skills across machines
-- **[mint-config](https://github.com/codywilliamson/mint-config)** — automated, idempotent Linux Mint dev environment setup — tools, dotfiles, repos, all from one command
 - **[nano-config](https://github.com/codywilliamson/nano-config)** — nicer out-of-the-box nano — line numbers, soft wrap, syntax highlighting, per-file cursor memory
 
 ---
