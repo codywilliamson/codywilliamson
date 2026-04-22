@@ -27,19 +27,12 @@ Lately I've been getting more into open source and leaning hard into the next ge
 
 ---
 
-## 🚀 Projects
+## 🚀 OSS Projects
 
 - **[copilot-plugin-cc](https://github.com/codywilliamson/copilot-plugin-cc)** — Claude Code plugin that brings GitHub Copilot reviews, rescue tasks, and background runs into your session
-- **[crafter](https://github.com/codywilliamson/crafter)** — desktop workbench for turning software requests into reviewable plans and better context for coding agents
-- **[riff](https://github.com/codywilliamson/riff)** — open protocol and lightweight runtime for coordinating AI agents around human-defined work
-- **[brief](https://github.com/codywilliamson/brief)** — agentic scripting language designed to be written by AI agents and audited by humans
-- **[astro-rpc](https://github.com/codywilliamson/astro-rpc)** — typesafe RPC for Astro 6 with full type inference from server to client
-- **[astro-email](https://github.com/codywilliamson/astro-email)** — author emails as Astro components, preview in dev, send from CLI
 - **[shockstack](https://github.com/codywilliamson/shockstack)** — convention-first full-stack monorepo template — Astro 5 + .NET 10, design tokens, CI/CD baked in
-- **[reposweep](https://github.com/codywilliamson/reposweep)** — manage your GitHub repos — toggle visibility, archive, rename, delete — all from one dashboard
 - **[repo-sentinel](https://github.com/codywilliamson/repo-sentinel)** — reusable GitHub Actions workflow — Trivy + CodeQL scans, auto-issue creation, optional Copilot fix attempts
 - **[commit-guard](https://github.com/codywilliamson/commit-guard)** — one-liner setup for conventional commits — local git hooks plus reusable CI validation workflow
-- **[signal-lost](https://github.com/codywilliamson/signal-lost)** — clarence — an analog horror CLI where an AI terminal assistant progressively takes over your session
 
 ---
 
