@@ -27,6 +27,9 @@ Lately I've been getting more into open source and figuring out how to build the
 
 ## 🚀 OSS Projects
 
+**[loupe](https://github.com/codywilliamson/loupe)**
+> local git diff viewer with ADO-style UI, inline comments, and LLM prompt export
+
 **[copilot-plugin-cc](https://github.com/codywilliamson/copilot-plugin-cc)** 
 > Claude Code plugin that brings GitHub Copilot reviews, rescue tasks, and background runs into your session
 
