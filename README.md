@@ -9,10 +9,9 @@
   
   <br />
   
-  > *"But we ought always to give thanks to God for you, brothers beloved by the Lord,*
-  > *because God chose you as the firstfruits to be saved,*
-  > *through sanctification by the Spirit and belief in the truth."*
-  > — **2 Thessalonians 2:13**
+  > *"In the beginning was the Word, and the Word was with God,*
+  > *and the Word was God."*
+  > — **John 1:1**
 </div>
 
 ---
@@ -21,17 +20,17 @@
 
 @ **OneStream Software** — building distributed, cloud-native applications and orchestration workflows in Azure using C#, Durable Functions, and Angular. On the side, I run **[Spectacle Software](https://spectaclesoftware.com)** for freelance projects.
 
-Lately I've been getting more into open source and figuring out how to build the next generation of software in this new agentic era.
+Lately I've been pivoting into AI infrastructure — the tooling, plumbing, and evidence trails that agentic systems actually run on — shipping more of it in the open and building a personal brand around the work.
 
 ---
 
 ## 🚀 OSS Projects
 
+**[tracewright](https://github.com/codywilliamson/tracewright)**
+> local-first evidence ledger for agentic development — captures agent and git activity, classifies every record by provenance
+
 **[loupe](https://github.com/codywilliamson/loupe)**
 > local git diff viewer with ADO-style UI, inline comments, and LLM prompt export
-
-**[copilot-plugin-cc](https://github.com/codywilliamson/copilot-plugin-cc)** 
-> Claude Code plugin that brings GitHub Copilot reviews, rescue tasks, and background runs into your session
 
 **[shockstack](https://github.com/codywilliamson/shockstack)**
 > my personal template for rapidly prototyping full-stack apps
@@ -47,7 +46,7 @@ Lately I've been getting more into open source and figuring out how to build the
 ## ⚙️ Configs
 
 **[claude-config](https://github.com/codywilliamson/claude-config)**
-> portable Claude Code config — settings, commands, agents, hooks, skills, and statusline
+> one Claude Code setup versioned in git — cross-platform sync that never deletes what it doesn't own, with CI for prompt injection and hook safety
 
 **[codex-config](https://github.com/codywilliamson/codex-config)**
 > portable Codex CLI config — config.toml, rules, and skills
@@ -64,6 +63,9 @@ Lately I've been getting more into open source and figuring out how to build the
 
 **Tooling, Automations & Developer Experience**
 > This is what I love most. Building tools, plugins, and workflows that make development feel seamless
+
+**AI Infrastructure & Agentic Systems**
+> Where I'm headed — agent tooling, provenance and evidence trails, config and context that survives contact with a real machine
 
 **Systems Design & Architecture**
 > Distributed systems, cloud-native patterns, orchestration workflows
