@@ -26,14 +26,8 @@ Lately I've been pivoting into AI infrastructure — the tooling, plumbing, and 
 
 ## 🚀 OSS Projects
 
-**[tracewright](https://github.com/codywilliamson/tracewright)**
-> local-first evidence ledger for agentic development — captures agent and git activity, classifies every record by provenance
-
-**[loupe](https://github.com/codywilliamson/loupe)**
+**[Diffle](https://diffle.dev)**
 > local git diff viewer with ADO-style UI, inline comments, and LLM prompt export
-
-**[shockstack](https://github.com/codywilliamson/shockstack)**
-> my personal template for rapidly prototyping full-stack apps
 
 **[repo-sentinel](https://github.com/codywilliamson/repo-sentinel)**
 > reusable GitHub Actions workflow — Trivy + CodeQL scans, auto-issue creation, optional Copilot fix attempts
