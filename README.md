@@ -37,20 +37,6 @@ Lately I've been pivoting into AI infrastructure — the tooling, plumbing, and 
 
 ---
 
-## ⚙️ Configs
-
-**[claude-config](https://github.com/codywilliamson/claude-config)**
-> one Claude Code setup versioned in git — cross-platform sync that never deletes what it doesn't own, with CI for prompt injection and hook safety
-
-**[codex-config](https://github.com/codywilliamson/codex-config)**
-> portable Codex CLI config — config.toml, rules, and skills
-
-**[nvim-config](https://github.com/codywilliamson/nvim-config)**
-> custom neovim config — LSP, completion, fuzzy finding, dracula theme, and AI integration
-
-**[nano-config](https://github.com/codywilliamson/nano-config)**
-> nicer out-of-the-box nano — line numbers, soft wrap, syntax highlighting, per-file cursor memory
-
 ---
 
 ## 🧰 What I Do
